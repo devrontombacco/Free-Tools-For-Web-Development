@@ -2,4 +2,4 @@
 List of free tools I've found for making web apps
 
 ### FRONT END 
-- [https://www.layoutit.com](lay it out): Use a gui to create bootstrap layouts + Css Grids
+- [lay it out](https://www.layoutit.com): Use a gui to create bootstrap layouts + Css Grids
