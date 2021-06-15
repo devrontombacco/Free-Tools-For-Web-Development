@@ -2,7 +2,7 @@
 List of free tools I've found for making web apps
 
 ### DESIGN 
-- [zeplin](https://zeplin.io/why-zeplin): GUI tool to create the design of a website/mobile app. Plugins available for figma/adobeXD/sketch etc. 
+- [zeplin](https://zeplin.io/why-zeplin): GUI tool to create the design of a website/mobile app. Plugins available for figma/adobeXD/sketch etc. (Free tier)
 
 ### FRONT END 
 - [lay it out](https://www.layoutit.com): Use a gui to create bootstrap layouts + Css Grids
