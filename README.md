@@ -16,9 +16,6 @@ List of free tools I've found for making web apps
 ### ICONS 
 - [simple icons](https://simpleicons.org): Free SVG Icons for popular brands
 
-
-
-
 ### MISCELLANEOUS 
 - [wallabag](https://wallabag.org/en): self hosted application for saving web pages. Free and Open Source
 - [gitter](https://gitter.im): Gitter is a chat and networking platform that helps to manage, grow and connect communities. Free without limits. Open Source
@@ -27,3 +24,6 @@ List of free tools I've found for making web apps
 - [flocked](https://flocked.app): Caption writer for Instagram
 - [fireship](https://fireship.io): Some free web dev courses available here
 - [infogram](https://infogram.com): Create infographics, reports and charts (Free tier)
+
+### SVG 
+- [getwaves](https://getwaves.io): create an SVG wave
