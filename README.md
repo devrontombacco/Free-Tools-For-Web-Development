@@ -27,3 +27,6 @@ List of free tools I've found for making web apps
 
 ### SVG 
 - [getwaves](https://getwaves.io): create an SVG wave
+
+### More Websites with free tools
+- [tiny-helpers](https://tiny-helpers.dev): collection of cool stuff
