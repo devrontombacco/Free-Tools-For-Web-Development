@@ -17,6 +17,7 @@ List of free tools I've found for making web apps
 
 ### ICONS 
 - [simple icons](https://simpleicons.org): Free SVG Icons for popular brands
+- [flags](https://www.countryflags.com): Need images of flags for your project? try this website. Free images available
 
 ### MISCELLANEOUS 
 - [wallabag](https://wallabag.org/en): self hosted application for saving web pages. Free and Open Source
