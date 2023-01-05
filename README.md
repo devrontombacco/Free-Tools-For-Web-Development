@@ -1,8 +1,13 @@
 # Free-Tools-For-Web-Development
 List of free tools I've found for making web apps
 
+
 ### ACCESSIBILITY 
 - [WCAG](https://www.w3.org/TR/WCAG20-GENERAL/#G17): Web Content Accessibility Guidelines doc
+
+### API DOCUMENTATION 
+- [devdocs](https://devdocs.io): DevDocs combines multiple API documentations in a fast, organized, and searchable interface
+
 
 ### COMMAND LINE / SHELL / TERMINAL 
 - [explainshell](https://explainshell.com/#): write down a command-line to see the help text that matches each argument
