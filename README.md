@@ -4,6 +4,10 @@ List of free tools I've found for making web apps
 ### ACCESSIBILITY 
 - [WCAG](https://www.w3.org/TR/WCAG20-GENERAL/#G17): Web Content Accessibility Guidelines doc
 
+### COMMAND LINE / SHELL / TERMINAL 
+- [explainshell](https://explainshell.com/#): write down a command-line to see the help text that matches each argument
+
+
 ### CSS
 - [lay it out](https://www.layoutit.com): Use a gui to create bootstrap layouts + Css Grids
 - [pure css](https://purecss.io/start/): A set of small, responsive CSS modules that you can use in every web project
