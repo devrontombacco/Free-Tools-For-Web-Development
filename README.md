@@ -5,6 +5,9 @@ List of free tools I've found for making web apps
 ### ACCESSIBILITY 
 - [WCAG](https://www.w3.org/TR/WCAG20-GENERAL/#G17): Web Content Accessibility Guidelines doc
 
+### APIs 
+- [abstractapi](https://app.abstractapi.com/): Free APIs to use for your projects
+
 ### API DOCUMENTATION 
 - [devdocs](https://devdocs.io): DevDocs combines multiple API documentations in a fast, organized, and searchable interface
 
